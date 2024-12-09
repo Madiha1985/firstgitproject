@@ -1,4 +1,5 @@
 import './style.css'
+<<<<<<< HEAD
 
 
 window.onload = function() {
@@ -26,3 +27,5 @@ for (let i = 0; i < myName.length; i++) {
 }
 
 
+=======
+>>>>>>> ca25d9db20b973d0e65480d6495194e362829f15
