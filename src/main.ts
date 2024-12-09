@@ -1,4 +1,16 @@
 import './style.css'
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+const firstName = document.createElement("p");
+firstName.innerHTML="Madiha";
+const div = document.getElementById("app");
+if (div){
+  div.appendChild(firstName);
+}
+=======
+<<<<<<< HEAD
+>>>>>>> 093e44ad3f37f289f2052b9779d65b481209322b
 
 <<<<<<< HEAD
 
