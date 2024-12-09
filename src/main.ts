@@ -1,6 +1,7 @@
 import './style.css'
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 
 window.onload = function() {
 
@@ -27,5 +28,15 @@ for (let i = 0; i < myName.length; i++) {
 }
 
 
+=======
+const myName = ()=> {
+    const name = "Amanda"
+  
+    for (let i = 0; i < name.length; i++){
+      console.log(name[i]);
+    }
+  }
+  myName();
+>>>>>>> 88f023698722d7f1012ac51ccc4315591423988f
 =======
 >>>>>>> ca25d9db20b973d0e65480d6495194e362829f15
